@@ -8,3 +8,8 @@ Created on Fri Jan 19 07:22:07 2024
 ## I am testing a commit ! 
 x = 5 + 5
 print(x)
+
+
+
+y = 2
+print(x*2)
